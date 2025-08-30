@@ -2,7 +2,7 @@
 
 A Visual Studio Code theme inspired by shadcn/ui colors, built on the foundation of the default Dark High Contrast theme.
 
-![Shaddy Theme Screenshot](./public/assets/screenshot.png)
+![Shaddy Theme Screenshot](./public/assets/screenshot.jpg)
 
 ## Description
 
