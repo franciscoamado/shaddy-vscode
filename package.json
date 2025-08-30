@@ -1,0 +1,26 @@
+{
+  "name": "shaddy",
+  "displayName": "shaddy",
+  "description": "Shadcn/ui inspired theme package for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/franciscoamado/shaddy-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franciscoamado/shaddy-vscode.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shaddy",
+        "uiTheme": "hc-black",
+        "path": "./themes/Shaddy-color-theme.json"
+      }
+    ]
+  }
+}
