@@ -2,7 +2,7 @@
   "name": "shaddy",
   "displayName": "shaddy",
   "description": "Shadcn/ui inspired theme package for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -21,6 +21,11 @@
         "label": "Shaddy",
         "uiTheme": "hc-black",
         "path": "./themes/Shaddy-color-theme.json"
+      },
+      {
+        "label": "Shaddy Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/Shaddy-light-color-theme.json"
       }
     ]
   }
